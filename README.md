@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anuj Khare
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Macjine Learning 
+- 🌱 I’m currently learning Macine Learning and Deep learning
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 - 😄 Pronouns: ...
